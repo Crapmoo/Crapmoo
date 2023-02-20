@@ -5,7 +5,7 @@ About me : lorem
 My state :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Crapmoo&theme=modern-lilac2)](https://git.io/streak-stats)
-This is my Repo
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crapmoo&show_icons=true&bg_color=DEG,fe6565,a40eb0&text_color=FFFFFF&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crapmoo&layout=compact&show_icons=true&bg_color=DEG,d923bd,5023d9&text_color=FFFFFF&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
