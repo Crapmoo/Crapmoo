@@ -25,7 +25,7 @@ My state :
  
  </div>
  
-<div align=center>
+<div>
  
 My langauge skill :
   </br>
