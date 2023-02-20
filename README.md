@@ -11,11 +11,11 @@
    </br>
  </p>
  
-<p align="center">
+<h1 align="center">
    
    [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
    
-   </p>
+   </h1>
  </br>
 
  <div>
