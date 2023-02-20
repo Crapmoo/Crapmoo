@@ -1,6 +1,6 @@
 ### Hi there I'm Crapmoo  👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crapmoo&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crapmoo&layout=compact&show_icons=true&bg_color=ea3a3a)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crapmoo&layout=compact&show_icons=true&bg_color=DEG,4158D0,C850C0,FFCC70)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
