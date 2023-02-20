@@ -2,9 +2,9 @@
 <h1 align=center> Hi there I'm Crapmoo<h1>
 
  <p align="center">
-  I am studying at university level
+ :hamster: I am studying at university level :hamster:
   </br>
- I can speak English a little
+ :hamster: I can speak English a little :hamster:
  </br>
  </br>
    <img src="https://cdn.discordapp.com/attachments/918976540316926012/1077203800928026644/200.gif">
