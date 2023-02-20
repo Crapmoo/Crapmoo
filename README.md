@@ -2,7 +2,9 @@
 <h1 align=center> Hi there I'm Crapmoo  👋<h1>
 
  <p align="center">
-   About me : I am studying at university level.I can speak English a little.
+   I am studying at university level.I can speak English a little.
+ </br>
+ </br>
    <img src="https://cdn.discordapp.com/attachments/918976540316926012/1077203800928026644/200.gif">
  </p>
   
