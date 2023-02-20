@@ -26,11 +26,6 @@ My state :
  </div>
  
 <div>
-  <h1 align="center">
-   
-   Skills
-   
- </h1>
  
 My langauge skill :
   </br>
