@@ -4,8 +4,23 @@ This is my Repo
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crapmoo&show_icons=true&bg_color=DEG,fe6565,a40eb0&text_color=FFFFFF&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crapmoo&layout=compact&show_icons=true&bg_color=DEG,d923bd,5023d9&text_color=FFFFFF&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
-myskill
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,linux,mysql,ps,php,pr,py,react,stackoverflow,twitter,discord,vscode)](https://skillicons.dev)
+My langauge skill
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,php,py)](https://skillicons.dev)
+
+Framework
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+
+Os
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+
+Database
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+Tools
+[![My Skills](https://skillicons.dev/icons?i=ps,vscode,pr)](https://skillicons.dev)
+
+Social
+[![My Skills](https://skillicons.dev/icons?i=twitter,discord,stackoverflow)](https://skillicons.dev)
 
 
 <!--
