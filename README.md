@@ -5,7 +5,7 @@ This is my Repo
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crapmoo&layout=compact&show_icons=true&bg_color=DEG,d923bd,5023d9&text_color=FFFFFF&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 My langauge skill :
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,php,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,css,html,php)](https://skillicons.dev)
 
 Framework :
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
