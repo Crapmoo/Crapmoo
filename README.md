@@ -9,10 +9,13 @@
  </br>
    <img src="https://cdn.discordapp.com/attachments/918976540316926012/1077203800928026644/200.gif">
    </br>
-   
-    [![trophy](https://github-profile-trophy.vercel.app/?username=Crapmoo)](https://github.com/ryo-ma/github-profile-trophy)
-    
  </p>
+ 
+<div align="center">
+ 
+     [![trophy](https://github-profile-trophy.vercel.app/?username=Crapmoo)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+ </div>
 
   
 
