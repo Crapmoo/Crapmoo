@@ -27,6 +27,10 @@ My state :
  
 <div>
   <p>
+   
+   Skills
+   
+ </p>
  
 My langauge skill :
   </br>
@@ -57,6 +61,5 @@ Social :
 </br>
 [![My Skills](https://skillicons.dev/icons?i=twitter,discord,stackoverflow)](https://skillicons.dev)
 
-</p>
 
 <div>
