@@ -26,11 +26,11 @@ My state :
  </div>
  
 <div>
-  <p align="center">
+  <h1 align="center">
    
    Skills
    
- </p>
+ </h1>
  
 My langauge skill :
   </br>
