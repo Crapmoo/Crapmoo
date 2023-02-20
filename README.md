@@ -11,7 +11,11 @@
    </br>
  </p>
  
-<p align=center><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)"></p>
+<p align=center>
+   
+   [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+   
+   </p>
  </br>
 
  <div>
