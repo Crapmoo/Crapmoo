@@ -26,27 +26,34 @@ My state :
  </div>
  
  <div>
-  <p>
    
 My langauge skill :
   </br>
- 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,css,html,php)](https://skillicons.dev)
-
-  </p>
+</br>
+ </br>
 Framework :
+</br>
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-
+</br>
+</br>
 Os :
+</br>
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-
+</br>
+</br>
 Database :
+</br>
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-
+</br>
+</br>
 Tools :
+</br>
 [![My Skills](https://skillicons.dev/icons?i=ps,vscode,pr)](https://skillicons.dev)
-
+</br>
+</br>
 Social :
+</br>
 [![My Skills](https://skillicons.dev/icons?i=twitter,discord,stackoverflow)](https://skillicons.dev)
 
  </div>
