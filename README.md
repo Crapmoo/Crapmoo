@@ -11,15 +11,7 @@
    </br>
  </p>
  
-<div align="center">
- 
-     [![trophy](https://github-profile-trophy.vercel.app/?username=Crapmoo)](https://github.com/ryo-ma/github-profile-trophy)
- 
- </div>
-
-  
-
- 
+<p align=center><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)"></p>
  </br>
 
  <div>
