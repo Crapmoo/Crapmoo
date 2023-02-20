@@ -26,7 +26,7 @@ My state :
  </div>
  
 <div>
-  <p>
+  <p align="center">
    
    Skills
    
