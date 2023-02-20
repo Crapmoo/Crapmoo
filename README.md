@@ -4,6 +4,9 @@
  <div>
   
 About me : I am studying at university level.I can speak English a little.
+  <p>
+   <img src="https://discord.com/channels/844088348556394507/918976540316926012/1077203801368449085">
+  </p>
   
  </div>
  
