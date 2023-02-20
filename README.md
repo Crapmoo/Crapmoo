@@ -13,8 +13,7 @@
  
 <h1 align="center">
    
-   [![trophy](https://github-profile-trophy.vercel.app/?username=Crapmoo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
- https://github-profile-trophy.vercel.app/?username=Crapmoo&no-frame=true
+   [![trophy](https://github-profile-trophy.vercel.app/?username=Crapmoo&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
    
    </h1>
    
